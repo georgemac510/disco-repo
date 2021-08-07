@@ -3,22 +3,24 @@ import styles from "@components/Sidebar.module.scss";
 import * as React from "react";
 import * as U from "@common/utilities";
 
+
 import Input from "@components/Input";
 import Button from "@components/Button";
 
 export default function Sidebar(props) {
   return (
     <div className={styles.sidebar}>
-      <h1>next-bucket</h1>
+      
+      <h1>Disco-Rock Repo</h1>
       <p>
-        An example template application for <b>[ Textile ]</b> buckets.{" "}
+        A storage and retrieval dapp for 1960's to 1990's disco, rock and pop music.{" "}
         <a href="https://github.com/application-research/next-daemon-bucket" target="_blank">
           (view source)
         </a>
         .
         <br />
         <br />
-        This application does not use a database and does not track data.
+        This app uses Slate and Textile Hub storage and retrieval technology for IPFS and the Filecoin blockchain.
       </p>
 
       {U.isEmpty(props.state.key) ? (
@@ -135,3 +137,8 @@ export default function Sidebar(props) {
     </div>
   );
 }
+
+
+
+//<img src={Logo} alt="Disco_Rock_Repo.png" />
+//import * as Logo from 'assets/images/Disco_Rock_Repo.png';

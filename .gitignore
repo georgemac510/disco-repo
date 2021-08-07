@@ -12,7 +12,7 @@ yarn.lock
 node_modules
 dist
 analytics.txt
-
+.git
 /**/*/.DS_STORE
 /**/*/node_modules
 /**/*/.next
