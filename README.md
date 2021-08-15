@@ -1,3 +1,5 @@
+<img src="https://github.com/georgemac510/disco-repo/blob/master/public/Disco_Rock_Repo.png"/>
+
 ### Introduction
 
 Try it online: https://crimson-cake-6149.on.fleek.co/
