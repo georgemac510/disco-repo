@@ -10,7 +10,7 @@ import Button from "@components/Button";
 export default function Sidebar(props) {
   return (
     <div className={styles.sidebar}>
-      
+      <img src="/Disco_Rock_Repo.png" />
       <h1>Disco-Rock Repo</h1>
       <p>
         A storage and retrieval dapp for 1960's to 1990's disco, rock and pop music.{" "}
