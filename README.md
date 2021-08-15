@@ -6,7 +6,7 @@ Try it online: https://crimson-cake-6149.on.fleek.co/
 
 The app is a repo of 1960's and 1970's popular music of the disco and classic rock genres.
 Users can store and retrieve audio and video files using IPFS for short-term storage and archive
-for long-term storage using Filecoin. This is done through the magic of Textile Hub. IPNS Links to the data files are created for quick and easy retrieval.
+for long-term storage using Filecoin. This is done through the magic of Textile Hub. IPNS Links to the data files are created for quick and easy retrieval. Jimmy Lee's `next-bucket` project was the inspiration to developing the app.
 
 ### Setup (Ubuntu)
 Prerequisites: Node version 14.16.1
