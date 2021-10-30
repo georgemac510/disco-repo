@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Try it online: https://crimson-cake-6149.on.fleek.co/
+Try it online: https://disco-rock-repo.onrender.com/
 
 The app is a repo of 1960's and 1970's popular music of the disco and classic rock genres.
 Users can store and retrieve audio and video files using IPFS for short-term storage and archive
@@ -18,7 +18,7 @@ git clone https://github.com/georgemac510/disco-repo.git
 cd disco-repo/
 ```
 
-- Create a `.env.local` file.
+- Create an `.env.local` file.
   - The command: `touch .env.local`.
 - In this file you will want to include your Textile Hub keys and other secrets you don't want exposed to the client.
 
@@ -45,4 +45,4 @@ npm install
 npm run dev
 ```
 
-Go to `http://localhost:3000` in your browser of choice.
+Go to `http://localhost:3000` in your browser of choice. Can also be found at https://disco-rock-repo.onrender.com/
