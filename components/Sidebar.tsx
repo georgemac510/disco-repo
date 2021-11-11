@@ -10,8 +10,13 @@ import Button from "@components/Button";
 export default function Sidebar(props) {
   return (
     <div className={styles.sidebar}>
+<<<<<<< HEAD
 
       <h1>Fin-File-Crypto</h1>
+=======
+      <img src="/Disco_Rock_Repo.png" />
+      <h1>Disco-Rock Repo</h1>
+>>>>>>> 6e01e608c1ce2f6b902cf49c0250288d0e47adef
       <p>
         A storage and retrieval dapp for crypto investment videos and documents.{" "}
         <a href="https://github.com/application-research/next-daemon-bucket" target="_blank">
