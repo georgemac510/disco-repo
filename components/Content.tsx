@@ -25,7 +25,7 @@ export default function Content(props) {
         </React.Fragment>
       ) : (
         <React.Fragment>
-          <h2>Music File Buckets</h2>
+          <h2>Crypto Investment Video Buckets</h2>
           <p>All of your buckets that you have created will appear here.</p>
           <br />
           <table className={styles.table}>

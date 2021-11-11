@@ -7,7 +7,7 @@ export default function App(props) {
   return (
     <React.Fragment>
       <div className={styles.top}>
-        <p>➝ Disco-Rock Repo {pkg.version}</p>
+        <p>➝ Fin-File-Crypto {pkg.version}</p>
         {props.topRight}
       </div>
       <div className={styles.app}>

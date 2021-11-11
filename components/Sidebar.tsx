@@ -10,10 +10,10 @@ import Button from "@components/Button";
 export default function Sidebar(props) {
   return (
     <div className={styles.sidebar}>
-      
-      <h1>Disco-Rock Repo</h1>
+
+      <h1>Fin-File-Crypto</h1>
       <p>
-        A storage and retrieval dapp for 1960's to 1990's disco, rock and pop music.{" "}
+        A storage and retrieval dapp for crypto investment videos and documents.{" "}
         <a href="https://github.com/application-research/next-daemon-bucket" target="_blank">
           (view source)
         </a>
@@ -105,9 +105,7 @@ export default function Sidebar(props) {
           ) : null}
 
           <p style={{ marginTop: 48 }}>
-            Generally, you never want to expose your private key to the public, you never want to
-            expose it on the client (like it is here), and you should only expose it on the server
-            with proper access control considerations. You have been warned.
+            It is best practice to keep your keys secret and not shared on the internet or you can lose real funds.
           </p>
           <div className={styles.actions}>
             <Button
